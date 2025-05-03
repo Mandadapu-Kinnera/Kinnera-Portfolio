@@ -1,16 +1,66 @@
-# kinnera_portfolio
+# 🌟 Flutter Portfolio App
 
-A new Flutter project.
+A beautiful and responsive portfolio mobile app built using **Flutter**. This app showcases personal details, technical skills, featured projects, and contact information — all in a sleek and interactive design.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- ✅ Clean and modern UI
+- 🧑‍💻 About Me & Skills sections
+- 🗂 Project showcase with brief descriptions and links
+- 📫 Contact section with working links to email, LinkedIn, GitHub, etc.
+- 🔗 External link support
+- 🌗 (Optional) Dark Mode support
+- 🔄 Smooth animations and transitions
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Built With
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/) – UI Toolkit
+- [Dart](https://dart.dev/) – Programming Language
+- [Material Design](https://material.io/) – UI Guidelines
+
+---
+
+## 🧑‍💻 Getting Started
+
+### Prerequisites
+
+- Flutter SDK: [Install Guide](https://docs.flutter.dev/get-started/install)
+- Android Studio or VS Code
+- A connected device or emulator
+
+### Installation
+
+```bash
+git clone https://github.com/<your-username>/flutter-portfolio.git
+cd flutter-portfolio
+flutter pub get
+flutter run
+````
+
+---
+
+## 🖼 App Structure
+
+```bash
+lib/
+├── main.dart             # Entry point
+├── screens/              # All screen files (home, about, projects, contact, etc.)
+├── widgets/              # Reusable widgets
+├── models/               # Data models (if used)
+├── assets/               # Images, icons, etc.
+└── utils/                # Theme data, constants, helpers
+```
+
+---
+
+## 📬 Contact
+
+Made with ❤️ by **\[Your Name]**
+
+* GitHub: [github.com/your-username](https://github.com/your-username)
+* LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
