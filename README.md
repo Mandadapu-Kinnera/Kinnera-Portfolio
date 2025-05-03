@@ -59,8 +59,8 @@ lib/
 
 Made with ❤️ by **\[Your Name]**
 
-* GitHub: [github.com/your-username](https://github.com/your-username)
-* LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: (https://github.com/Mandadapu-Kinnera/Mandadapu-Kinnera)
+* LinkedIn: (https://www.linkedin.com/in/kinnera-mandadapu-b20668303/)
+* Email: (mailto:mandadapukinnera@gmail.com)
 
 ---
